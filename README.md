@@ -2,7 +2,7 @@
 
 😄 Is an ordinary Microsoft fan.
 
-🔭 A regular C-developer in the field of industrial manufacturing。
+🔭 A regular C#-developer in the field of industrial manufacturing。
 
 🌱 Like to share blogs, video tutorials, source code
 
