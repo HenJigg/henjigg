@@ -6,8 +6,7 @@
 
 🌱 Like to share blogs, video tutorials, source code
 
-💬 Hope that through the continuous sharing of Microsoft-related technology, 
-   Microsoft's technology in China to get more applications and recognition.
+💬 Hope to continue to share in the domestic WPF, Xamarin and other technologies, the establishment of the domestic C- ecological community, so that WPF, Xamarin in China has more market applications.
 
 📫 How to reach me:zhouhaogg789@outlook.com
 
