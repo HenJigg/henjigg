@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-😄 Is an ordinary Microsoft fan.
+😄 23 years old, I'm from China and I'm a Microsoft fan.
 
-🔭 A regular C#-developer in the field of industrial manufacturing。
+🔭 Independent C# developer.
 
 🌱 Like to share blogs, video tutorials, source code
 
