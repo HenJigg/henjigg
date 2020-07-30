@@ -13,3 +13,5 @@
 ⚡ You can follow my updates by visiting my blog or video site.
 [Blog](https://www.cnblogs.com/zh7791/)
 [bilibili](https://space.bilibili.com/32497462)
+
+👼🏻 Hopefully, in the next few years, I will be able to publish personal books, whether based on WPF, Xamarin, or MAUI, which will be visible in the future.
