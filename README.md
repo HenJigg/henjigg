@@ -17,4 +17,3 @@
 👼🏻 Hopefully, in the next few years, I will be able to publish personal books, whether based on WPF, Xamarin, or MAUI, which will be visible in the future.
 
 ![@](https://github-readme-stats.vercel.app/api?username=henjigg&show_icons=true)
-![@](https://github-readme-stats.vercel.app/api/top-langs/?username=henjigg)
