@@ -4,7 +4,7 @@
 new {  
   name="zhouhao",  
   address="guang zhou",  
-  tag="Microsoft MVP, Microsoft Fans,C#,LOL,XBOX",  
+  tags="Microsoft MVP, Microsoft Fans,C#,LOL,XBOX",  
   like="share blogs, video tutorials, source code",  
   blog="https://www.cnblogs.com/zh7791",  
   bilibili="https://space.bilibili.com/32497462",  
