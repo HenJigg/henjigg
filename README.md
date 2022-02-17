@@ -3,8 +3,8 @@
 - 全网教程视频点播量突破100W
 
 2022 年展望:
-- MAUI系列视频教程
-- MAUI跨平台快速框架
+- Xamarin/MAUI系列视频教程
+- Xamarin/MAUI跨平台快速框架
 - 提升程序员基本素质
   
 ![@](https://github-readme-stats.vercel.app/api?username=henjigg&show_icons=true)
