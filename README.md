@@ -6,5 +6,6 @@
 - Xamarin/MAUI系列视频教程
 - Xamarin/MAUI跨平台快速框架
 - 提升程序员基本素质
-  
-![@](https://github-readme-stats.vercel.app/api?username=henjigg&show_icons=true)
+
+- 保持学习的动力
+- 保持足够的理性
