@@ -14,3 +14,20 @@
 3. 计数类型的应用，涉及主要是模板匹配。
 4. 表面缺陷检测, 如: 服装吊牌，包装纸，日化包装
 5. 条码识别，读码器，色彩识别。
+
+The basic route of learning machine vision:
+
+1. Learn the programming language C # and master the usage of WPF framework
+2. The components of an image, such as black and white, color, resolution, depth, channels, and format
+3. HALCON syntax, understand the built-in common operator functions, such as threshold segmentation, grayscale, dilation and corrosion, connectivity, contour, filtering, template matching, region operation, and other common functions
+4. The working mode and components of the camera, such as black and white/color, target surface, resolution and other parameters
+5. Lens parameters, such as aperture size, focal length, target size, resolution
+6. Several sensor working modes of area array cameras and the working mode of line scan cameras.
+7. Types of light sources, such as common ring light, strip light, line light, tunnel light, coaxial light, point light, etc.
+
+Some common applications developed:
+1. Visual screening machines on the market, such as size measurement, distance measurement, and roundness calculation
+2. For example, beverage canning inspection and appearance inspection
+3. The application of counting types mainly involves template matching.
+4. Surface defect detection, such as clothing tags, packaging paper, and daily chemical packaging
+5. Barcode recognition, barcode reader, color recognition.
